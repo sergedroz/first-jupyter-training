@@ -30,3 +30,4 @@ Besides Jupyterlab the following modules are needed:
 
  - Tutorial: A simple notebook demonstrating how data can be analyzed
  - Cowrie: A somewhat more involved notebook to analyze honeypot logs
+
